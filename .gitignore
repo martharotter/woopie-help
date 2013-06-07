@@ -1,0 +1,8 @@
+__MACOSX
+*.git
+*.pyc
+.DS_Store
+.sass-cache
+.sass-cache/*
+.dropbox
+
